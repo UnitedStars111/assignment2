@@ -3,6 +3,6 @@ body.home {
   font-size: 15px;
 }
 
-div#nav {
+div.nav {
   list-style-type: none;
 }
