@@ -6,3 +6,8 @@ body.home {
 div.nav {
   list-style-type: none;
 }
+
+img.logo {
+  float: center;
+  alpha: 1;
+}
